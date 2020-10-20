@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d657d6de2d2b1e1a35ae19dfcfe5b376",
+    "revision": "462ad7aacf3daeb2ac229b23a2776199",
     "url": "/robotfriens-redux-pwa/index.html"
   },
   {
-    "revision": "b09d20b975196d7d8093",
+    "revision": "1ab37bf9c895fa6a3aeb",
     "url": "/robotfriens-redux-pwa/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "3b05ce538887e9361118",
+    "revision": "10adf03767b503804037",
     "url": "/robotfriens-redux-pwa/static/css/main.4c37bd84.chunk.css"
   },
   {
-    "revision": "b09d20b975196d7d8093",
-    "url": "/robotfriens-redux-pwa/static/js/2.277841f7.chunk.js"
+    "revision": "1ab37bf9c895fa6a3aeb",
+    "url": "/robotfriens-redux-pwa/static/js/2.1d596193.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/robotfriens-redux-pwa/static/js/2.277841f7.chunk.js.LICENSE.txt"
+    "revision": "9b318b6fb13190fe82c0677e9264b3c7",
+    "url": "/robotfriens-redux-pwa/static/js/2.1d596193.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b05ce538887e9361118",
-    "url": "/robotfriens-redux-pwa/static/js/main.6181bcb8.chunk.js"
+    "revision": "10adf03767b503804037",
+    "url": "/robotfriens-redux-pwa/static/js/main.7511ea25.chunk.js"
   },
   {
     "revision": "674f7ee71c7393fe5692",
